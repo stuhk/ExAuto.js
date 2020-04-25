@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Auto.js.iml" filepath="$PROJECT_DIR$/Auto.js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExAuto.js.iml" filepath="$PROJECT_DIR$/ExAuto.js.iml" group="ExAuto.js" />
+      <module fileurl="file://$PROJECT_DIR$/app/ExAuto.js-app.iml" filepath="$PROJECT_DIR$/app/ExAuto.js-app.iml" group="ExAuto.js/app" />
+      <module fileurl="file://$PROJECT_DIR$/autojs/ExAuto.js-autojs.iml" filepath="$PROJECT_DIR$/autojs/ExAuto.js-autojs.iml" group="ExAuto.js/autojs" />
+      <module fileurl="file://$PROJECT_DIR$/automator/ExAuto.js-automator.iml" filepath="$PROJECT_DIR$/automator/ExAuto.js-automator.iml" group="ExAuto.js/automator" />
+      <module fileurl="file://$PROJECT_DIR$/common/ExAuto.js-common.iml" filepath="$PROJECT_DIR$/common/ExAuto.js-common.iml" group="ExAuto.js/common" />
+      <module fileurl="file://$PROJECT_DIR$/inrt/ExAuto.js-inrt.iml" filepath="$PROJECT_DIR$/inrt/ExAuto.js-inrt.iml" group="ExAuto.js/inrt" />
       <module fileurl="file://$PROJECT_DIR$/NoRootScriptDroid.iml" filepath="$PROJECT_DIR$/NoRootScriptDroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/autojs/autojs.iml" filepath="$PROJECT_DIR$/autojs/autojs.iml" />
